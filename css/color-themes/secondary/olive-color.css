@@ -1,0 +1,57 @@
+.main-header .info-box .icon-box,
+.callback-section .form-column .theme-btn:hover,
+.btn-style-three:hover,
+.main-header .info-box .icon-box{
+	color:#2E8B57;
+}
+
+/*Background Color*/
+
+.main-header.header-style-two .header-lower .outer-box,
+.services-carousel-one .owl-nav .owl-next:hover,
+.services-carousel-one .owl-nav .owl-prev:hover,
+.services-carousel-one .owl-nav .owl-next:hover,
+.services-carousel-one .owl-nav .owl-prev:hover,
+.team-carousel-section .owl-nav .owl-next:hover,
+.team-carousel-section .owl-nav .owl-prev:hover,
+.callback-section .form-column .theme-btn,
+.tabs-style-one .tab-buttons .tab-btn.active-btn,
+.sidebar .sidebar-category .list li a:hover,
+.sidebar .sidebar-category .list li.current a,
+.sidebar .popular-tags a:hover,
+.related-products .owl-nav .owl-prev:hover,
+.related-products .owl-nav .owl-next:hover,
+.shopping-progress .step,
+.shopping-progress .step .step-number,
+.btn-style-three,
+.main-header .header-top,
+.main-header.header-style-two .header-lower .outer-box{
+	background-color:#2E8B57;
+}
+
+/*RGBA BG*/
+
+.call-to-action:before,
+.fun-facts-section:before{
+	background:rgba(61,153,112,0.80);
+}
+
+/*Border Color*/
+
+.services-carousel-one .owl-nav .owl-next:hover,
+.services-carousel-one .owl-nav .owl-prev:hover,
+.services-carousel-one .owl-nav .owl-next:hover,
+.services-carousel-one .owl-nav .owl-prev:hover,
+.team-carousel-section .owl-nav .owl-next:hover,
+.team-carousel-section .owl-nav .owl-prev:hover,
+.callback-section .form-column .theme-btn,
+.callback-section .form-column .theme-btn:hover,
+.tabs-style-one .tab-buttons .tab-btn.active-btn,
+.sidebar .popular-tags a:hover,
+.related-products .owl-nav .owl-prev:hover,
+.related-products .owl-nav .owl-next:hover,
+.btn-style-three,
+.btn-style-three:hover{
+	border-color:#2E8B57;
+}
+
